@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item type="id" name="player_view"/>
+
+    <string name="minVersion">minVersion</string>
+    <string name="isLaunchableActivity">isLaunchableActivity</string>
+    <string name="loggingTag">YoutubeAPIDemos</string>
+
+</resources>
