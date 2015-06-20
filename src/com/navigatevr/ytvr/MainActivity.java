@@ -15,6 +15,7 @@ public class MainActivity extends YouTubeFailureRecoveryActivity {
 
         YouTubePlayerView youTubeView = (YouTubePlayerView) findViewById(R.id.youtube_view);
         youTubeView.initialize(DeveloperKey.DEVELOPER_KEY, this);
+
     }
 
     @Override
