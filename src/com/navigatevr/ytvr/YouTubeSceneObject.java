@@ -16,8 +16,8 @@ import android.webkit.WebView;
 
 import com.google.android.youtube.player.YouTubePlayerView;
 
-public class YouTubeSceneObject extends GVRSceneObject implements
-GVRDrawFrameListener{
+public class YouTubeSceneObject extends GVRSceneObject
+    implements GVRDrawFrameListener{
 
     private static final String TAG = "YouTubeSceneObject";
 
